@@ -1,0 +1,29 @@
+# Vivado generated directories
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.gen/
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.backup.jou
+*.backup.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
